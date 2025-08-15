@@ -1,0 +1,161 @@
+Q: What is Newton's first law?
+A: An object will stay at rest or keep moving in a straight line unless acted on by a force.
+
+Q: What is Newton's second law?
+A: Force equals mass times acceleration.
+
+Q: What is Newton's third law?
+A: For every action, there is an equal and opposite reaction.
+
+Q: What is gravity?
+A: Gravity is the force that pulls objects toward each other.
+
+Q: What is acceleration?
+A: Acceleration is the rate at which an object's velocity changes.
+
+Q: What is velocity?
+A: Velocity is the speed of an object in a specific direction.
+
+Q: What is speed?
+A: Speed is the distance traveled per unit of time.
+
+Q: What is force?
+A: Force is any interaction that changes the motion of an object.
+
+Q: What is mass?
+A: Mass is the amount of matter in an object.
+
+Q: What is weight?
+A: Weight is the force of gravity acting on an object.
+
+Q: What is kinetic energy?
+A: Kinetic energy is the energy of an object due to its motion.
+
+Q: What is potential energy?
+A: Potential energy is stored energy due to an object's position.
+
+Q: What is mechanical energy?
+A: Mechanical energy is the sum of kinetic and potential energy.
+
+Q: What is work in physics?
+A: Work is done when a force moves an object over a distance.
+
+Q: What is power?
+A: Power is the rate at which work is done.
+
+Q: What is momentum?
+A: Momentum is the product of an object's mass and velocity.
+
+Q: What is impulse?
+A: Impulse is the change in momentum caused by a force over time.
+
+Q: What is conservation of momentum?
+A: Momentum is conserved in a system if no external forces act on it.
+
+Q: What is torque?
+A: Torque is a measure of the rotational force applied to an object.
+
+Q: What is rotational inertia?
+A: Rotational inertia is the resistance of an object to change its rotational motion.
+
+Q: What is angular momentum?
+A: Angular momentum is the rotational equivalent of linear momentum.
+
+Q: What is Bernoulli's principle?
+A: The pressure of a fluid decreases as its speed increases.
+
+Q: What is Pascal's principle?
+A: Pressure applied to a confined fluid is transmitted undiminished throughout the fluid.
+
+Q: What is Archimedes' principle?
+A: An object submerged in a fluid experiences an upward buoyant force equal to the weight of the fluid displaced.
+
+Q: What is density?
+A: Density is mass per unit volume.
+
+Q: What is pressure?
+A: Pressure is force per unit area.
+
+Q: What is temperature?
+A: Temperature measures how hot or cold something is.
+
+Q: What is heat?
+A: Heat is energy transferred due to temperature difference.
+
+Q: What is conduction?
+A: Conduction is heat transfer through direct contact.
+
+Q: What is convection?
+A: Convection is heat transfer through the movement of fluids.
+
+Q: What is radiation?
+A: Radiation is heat transfer through electromagnetic waves.
+
+Q: What is the law of reflection?
+A: The angle of incidence equals the angle of reflection.
+
+Q: What is the law of refraction?
+A: Light bends when it passes from one medium to another.
+
+Q: What is wavelength?
+A: Wavelength is the distance between two consecutive peaks of a wave.
+
+Q: What is frequency?
+A: Frequency is the number of waves passing a point per second.
+
+Q: What is amplitude?
+A: Amplitude is the maximum displacement of a wave from its rest position.
+
+Q: What is the speed of light?
+A: The speed of light in a vacuum is approximately 3 × 10^8 meters per second.
+
+Q: What is Ohm's law?
+A: Voltage equals current times resistance.
+
+Q: What is current?
+A: Current is the flow of electric charge.
+
+Q: What is voltage?
+A: Voltage is the electric potential difference between two points.
+
+Q: What is resistance?
+A: Resistance is a material's opposition to the flow of electric current.
+
+Q: What is capacitance?
+A: Capacitance is the ability of a system to store electric charge.
+
+Q: What is a magnetic field?
+A: A magnetic field is the region around a magnet where magnetic forces act.
+
+Q: What is electromagnetic induction?
+A: Electromagnetic induction is the process of generating voltage by changing a magnetic field.
+
+Q: What is a transverse wave?
+A: A transverse wave moves perpendicular to the direction of wave propagation.
+
+Q: What is a longitudinal wave?
+A: A longitudinal wave moves parallel to the direction of wave propagation.
+
+Q: What is interference?
+A: Interference occurs when two waves overlap and combine.
+
+Q: What is diffraction?
+A: Diffraction is the bending of waves around obstacles or through openings.
+
+Q: What is polarization?
+A: Polarization is the alignment of wave oscillations in a specific direction.
+
+Q: What is resonance?
+A: Resonance is when a system oscillates at maximum amplitude at its natural frequency.
+
+Q: What is simple harmonic motion?
+A: Simple harmonic motion is repetitive oscillation about an equilibrium position.
+
+Q: What is the period of a wave?
+A: The period is the time it takes for one complete cycle of a wave.
+
+Q: What is the frequency of a wave?
+A: Frequency is the number of cycles per second.
+
+Q: What is amplitude in waves?
+A: Amplitude is the maximum displacement of a wave from rest position.
